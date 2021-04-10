@@ -1,7 +1,7 @@
 FROM ubuntu:20.04
 
 RUN apt-get update && \
-  apt-get install -y vim curl unzip wget sudo git
+  apt-get install -y vim curl unzip wget sudo git build-essential
 
 # install nodejs
 RUN curl -sL https://deb.nodesource.com/setup_14.x | bash - 
