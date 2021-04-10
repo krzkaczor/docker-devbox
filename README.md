@@ -10,4 +10,4 @@ docker run -it krzkaczor/devbox
 
 ## Software installed:
 
-`vim, curl, nodejs, yarn etc` for details look into Dockerfile.
+`git, vim, curl, nodejs, yarn etc` for details look into Dockerfile.
