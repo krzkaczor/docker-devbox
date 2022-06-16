@@ -5,7 +5,7 @@ Simple docker image based on ubuntu with common utils installed.
 ## Usage:
 
 ```
-docker run -it krzkaczor/devbox
+docker run -it --rm --name devbox krzkaczor/devbox
 ```
 
 ## Software installed:
